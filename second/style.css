@@ -1,0 +1,42 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+#blue {
+    width:33.3%;
+    height:700px;
+    background-color:cornflowerblue;
+    display: inline-block;
+    float:left;
+    position: relative;
+}
+#green {
+    width:33.3%;
+    height:700px;
+    display:inline-block;
+    background-color:aquamarine;
+    float:left;
+    position:relative;
+}
+#lime-green {
+    width:33.3%;
+    height:606px;
+    display:inline-block;
+    background-color:rgb(180,230,160);
+    position: relative
+    
+}
+#red {
+    height:90px;
+    width:33.3%;
+    background-color:red;
+    display: inline-block;
+    position: relative;
+}
+#place-holder {
+    color:white;
+    font-size:1.6em;
+    text-align: center;
+    padding-top:30px;
+}
